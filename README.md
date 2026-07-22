@@ -2,7 +2,9 @@
 
 **Healthcare Growth Strategist | AI Automation & Marketing Consultant**
 
-I help healthcare and home-care organizations grow — combining 20+ years of healthcare business development with hands-on AI implementation, customer success, and bilingual patient engagement. I care as much about *responsible* AI adoption as I do about results: AI drafts, a qualified person always approves, and patient privacy comes first.
+I help healthcare and home-care organizations grow by turning complex operations into clear workflows, adoption plans, dashboards, and AI-assisted products. I bring 20+ years of healthcare business development, provider relations, patient engagement, marketing, and customer-facing operations experience.
+
+[**Explore my employer-facing capabilities site →**](https://caregrowthaccelerator-ux.github.io/caregrowthaccelerator-ux/)
 
 📍 South Florida · 🗣️ English & Spanish · 🎓 2026 HIPAA certified · Generative AI & business-strategy credentials
 
@@ -11,49 +13,53 @@ I help healthcare and home-care organizations grow — combining 20+ years of he
 ## What I do
 
 - **Healthcare growth** — referral development, admissions, provider relations, senior placement, territory planning
-- **AI implementation** — rolling out AI-assisted workflows in regulated settings, with human-in-the-loop governance
-- **Customer success** — onboarding, adoption-risk management, health-score modeling, QBRs, executive dashboards
-- **Bilingual engagement** — English/Spanish care-transition communication that keeps families informed and involved
+- **AI implementation** — regulated-workflow rollout, human-in-the-loop governance, change management, staff adoption
+- **Customer success** — onboarding, adoption-risk management, health-score modeling, QBRs, stakeholder strategy
+- **Cross-industry product strategy** — translating healthcare, fintech, marketing, and e-commerce operations into workflows, dashboards, and AI-assisted products
+- **Bilingual engagement** — English/Spanish care-transition and family communication
+
+**Industries served:** Healthcare, post-acute care, home care, senior services, medical aesthetics, fintech and tax technology, marketing operations, and regulated e-commerce.
 
 ---
 
 ## Featured portfolio
 
-Every repository uses **synthetic, privacy-safe examples** — no patient, client, or proprietary data.
+Every public repository uses **synthetic, privacy-safe examples** — no patient, client, or proprietary data.
 
 | Repository | What it shows |
 |------------|---------------|
-| 🔁 **[healthcare-ai-referral-workflow](https://github.com/caregrowthaccelerator-ux/healthcare-ai-referral-workflow)** | AI-assisted referral & admissions workflow with a Mermaid diagram, HIPAA-conscious prompts, and responsible-AI governance |
-| 📈 **[healthcare-customer-success-playbook](https://github.com/caregrowthaccelerator-ux/healthcare-customer-success-playbook)** | Onboarding, health-score model + data dictionary, adoption-risk, QBR, discovery & objection handling |
-| 🌐 **[bilingual-patient-engagement-toolkit](https://github.com/caregrowthaccelerator-ux/bilingual-patient-engagement-toolkit)** | English–Spanish care-transition scripts and privacy-safe communication guidance |
-| 🛠️ **[healthcare-ai-implementation-toolkit](https://github.com/caregrowthaccelerator-ux/healthcare-ai-implementation-toolkit)** | Rollout checklist, change management, human-in-the-loop governance, training, vendor rubric |
-| 🏡 **[home-care-growth-playbook](https://github.com/caregrowthaccelerator-ux/home-care-growth-playbook)** | Referral development, intake-to-admission funnel, territory planning, KPI scorecard |
+| 🔁 **[healthcare-ai-referral-workflow](https://github.com/caregrowthaccelerator-ux/healthcare-ai-referral-workflow)** | Referral and admissions workflow, HIPAA-conscious prompts, governance, and case study |
+| 📈 **[Healthcare-customer-success-playbook](https://github.com/caregrowthaccelerator-ux/Healthcare-customer-success-playbook)** | Onboarding, health scoring, adoption risk, QBRs, discovery, objection handling, and case study |
+| 🌐 **[bilingual-patient-engagement-toolkit](https://github.com/caregrowthaccelerator-ux/bilingual-patient-engagement-toolkit)** | English-Spanish care-transition scripts and privacy-safe communication |
+| 🛠️ **[healthcare-ai-implementation-toolkit](https://github.com/caregrowthaccelerator-ux/healthcare-ai-implementation-toolkit)** | Rollout, change management, governance, training, vendor evaluation, and prompt library |
+| 🏡 **[home-care-growth-playbook](https://github.com/caregrowthaccelerator-ux/home-care-growth-playbook)** | Referral development, intake funnel, territory planning, KPI scorecard, and dashboard |
 
-📊 **Live dashboard sample:** [Healthcare Growth & Customer Success Dashboard](https://caregrowthaccelerator-ux.github.io/home-care-growth-playbook/healthcare-growth-dashboard.html) — an interactive portfolio sample using synthetic data.
+**Selected AI-assisted products:** Wealth Command, CareGrowth Accelerator, CareCommand Center, Premier Source Bio, AI Assistant Hub, FitOS Prime, and additional private builds. [View the product portfolio](https://caregrowthaccelerator-ux.github.io/caregrowthaccelerator-ux/product-portfolio.html).
 
 ---
 
 ## How I approach AI in healthcare
 
 1. **Privacy first** — no PHI in general-purpose tools; de-identify and use minimum-necessary information.
-2. **Human-in-the-loop** — AI drafts; a qualified person reviews and approves anything patient-facing.
-3. **Adoption over sophistication** — the best tool fails if staff don't trust or use it.
-4. **Measurable** — define success metrics before launch, report against baseline.
+2. **Human-in-the-loop** — AI drafts; a qualified person reviews and approves patient- or client-facing work.
+3. **Pilot safely, measure, then scale** — controlled rollout, clear approval steps, baseline measurement, then expansion.
+4. **Measurable** — define success metrics before launch and report against the baseline.
 
 ---
 
-## Tech I build with
+## Tech and product tools
 
 *AI-assisted product prototyping:* React · TypeScript · TanStack · Supabase · Tailwind · authentication · component systems · data visualization  
-*Plus:* CRM/referral tracking · workflow & SOP design · KPI dashboards · content & marketing automation
+*Operations:* CRM/referral tracking · workflow and SOP design · KPI dashboards · content and marketing automation
 
 ---
 
 ## Let's connect
 
-Open to healthcare growth, AI implementation, and customer success roles.  
+Open to healthcare AI implementation, customer success, product operations, partnerships, and growth leadership roles.  
 💼 [LinkedIn — Adrianna Castillo](https://www.linkedin.com/in/adrianna-castillo-561marketing)  
 📫 [caregrowthaccelerator@gmail.com](mailto:caregrowthaccelerator@gmail.com)  
+🌐 [Capabilities site](https://caregrowthaccelerator-ux.github.io/caregrowthaccelerator-ux/)  
 Portfolio: **github.com/caregrowthaccelerator-ux**
 
-<sub>All public samples are synthetic and privacy-safe. Broader results and specifics available on request.</sub>
+<sub>All public samples are synthetic and privacy-safe. Broader results and private demos are available on request.</sub>
