@@ -2,7 +2,7 @@
 
 **Healthcare Growth Strategist | AI Automation & Marketing Consultant**
 
-I help healthcare and home-care organizations grow — combining 19+ years of healthcare business development with hands-on AI implementation, customer success, and bilingual patient engagement. I care as much about *responsible* AI adoption as I do about results: AI drafts, a qualified person always approves, and patient privacy comes first.
+I help healthcare and home-care organizations grow — combining 20+ years of healthcare business development with hands-on AI implementation, customer success, and bilingual patient engagement. I care as much about *responsible* AI adoption as I do about results: AI drafts, a qualified person always approves, and patient privacy comes first.
 
 📍 South Florida · 🗣️ English & Spanish · 🎓 2026 HIPAA certified · Generative AI & business-strategy credentials
 
