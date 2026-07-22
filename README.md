@@ -52,6 +52,7 @@ Every repository uses **synthetic, privacy-safe examples** — no patient, clien
 ## Let's connect
 
 Open to healthcare growth, AI implementation, and customer success roles.  
+💼 [LinkedIn — Adrianna Castillo](https://www.linkedin.com/in/adrianna-castillo-561marketing)  
 📫 [caregrowthaccelerator@gmail.com](mailto:caregrowthaccelerator@gmail.com)  
 Portfolio: **github.com/caregrowthaccelerator-ux**
 
