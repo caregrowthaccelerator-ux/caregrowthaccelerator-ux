@@ -32,4 +32,5 @@ Private projects are not published because they contain proprietary product dire
 
 All public examples use synthetic, fictional, or generalized information. Public repositories do not include protected health information, client data, credentials, private APIs, confidential pricing, proprietary source code, or internal company documents.
 
-**Portfolio:** `github.com/caregrowthaccelerator-ux`
+**LinkedIn:** [linkedin.com/in/adrianna-castillo-561marketing](https://www.linkedin.com/in/adrianna-castillo-561marketing)  
+**Portfolio:** [github.com/caregrowthaccelerator-ux](https://github.com/caregrowthaccelerator-ux)
