@@ -33,9 +33,6 @@ A multi-brand AI marketing command center — AI-generated captions, scripts, an
 
 ## E-commerce & brand (regulated / luxury)
 
-**Premier Source Bio** *(live: premiersourcebio.lovable.app)*
-A premium peptide and longevity e-commerce experience with an interactive 3D human body for system-based exploration, educational science panels, device/diagnostic pairings, protocol building, and compliant, subscription-ready commerce.
-
 **Premier Aesthetic Source**
 A luxury medspa aesthetic-equipment distributor site: full equipment catalog, white-/private-label program, financing, training/warranty coordination, a CRM-ready data model, and an admin dashboard with margin and follow-up tracking — built with careful regulatory/compliance framing.
 
