@@ -22,7 +22,7 @@ Healthcare, post-acute care, home care, senior services, medical aesthetics, fin
 
 ## Selected AI-assisted product builds
 
-Wealth Command, CareGrowth Accelerator, CareCommand Center, Surge Pilot Command, Premier Source Bio, Premier Aesthetic Source, Liberty Compass, FitOS Prime, AI Assistant Hub, Coastal Glass AI, and Supply Cost Analyzer. See [PRODUCT_PORTFOLIO.md](PRODUCT_PORTFOLIO.md) for public-safe descriptions.
+Wealth Command, CareGrowth Accelerator, CareCommand Center, Surge Pilot Command, Premier Aesthetic Source, Liberty Compass, FitOS Prime, AI Assistant Hub, Coastal Glass AI, and Supply Cost Analyzer. See [PRODUCT_PORTFOLIO.md](PRODUCT_PORTFOLIO.md) for public-safe descriptions.
 
 ## Capabilities developed through private builds
 
