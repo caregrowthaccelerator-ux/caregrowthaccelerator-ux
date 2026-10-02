@@ -60,7 +60,8 @@ Every public repository uses **synthetic, privacy-safe examples** — no patient
 
 Open to healthcare AI implementation, customer success, product operations, partnerships, and growth leadership roles.  
 💼 [LinkedIn — Adrianna Castillo](https://www.linkedin.com/in/adrianna-castillo-561marketing)  
-📫 [caregrowthaccelerator@gmail.com](mailto:caregrowthaccelerator@gmail.com)  
+📫 **Consulting & implementation projects:** [caregrowthaccelerator@gmail.com](mailto:caregrowthaccelerator@gmail.com)  
+✉️ **Full-time / W-2 opportunities:** [lifelinealc@gmail.com](mailto:lifelinealc@gmail.com)  
 🌐 [Capabilities site](https://caregrowthaccelerator-ux.github.io/caregrowthaccelerator-ux/)  
 Portfolio: **github.com/caregrowthaccelerator-ux**
 
