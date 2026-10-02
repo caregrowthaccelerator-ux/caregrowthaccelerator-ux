@@ -49,7 +49,8 @@ A structured view of capabilities across healthcare growth, AI implementation, c
 - Privacy-safe communication guidance
 
 ## Credentials
-- 2026 HIPAA certification
+- HIPAA training (2026)
+- HubSpot Revenue Operations Certified (2026)
 - Generative AI and business-strategy education credentials
 
 ## Proficiency legend (fill in per role as needed)
